@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'microthemer';
-  src: url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.eot?47069929');
-  src: url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.eot?47069929#iefix') format('embedded-opentype'),
-       url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.woff2?47069929') format('woff2'),
-       url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.woff?47069929') format('woff'),
-       url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.ttf?47069929') format('truetype'),
-       url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.svg?47069929#microthemer') format('svg');
+  src: url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.eot?47069929');
+  src: url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.eot?47069929#iefix') format('embedded-opentype'),
+       url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.woff2?47069929') format('woff2'),
+       url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.woff?47069929') format('woff'),
+       url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.ttf?47069929') format('truetype'),
+       url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.svg?47069929#microthemer') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,7 +15,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'microthemer';
-    src: url('/hope-academy/wp-content/plugins/microthemer/images/icon-font/font/microthemer.svg?47069929#microthemer') format('svg');
+    src: url('/wp-content/plugins/microthemer/images/icon-font/font/microthemer.svg?47069929#microthemer') format('svg');
   }
 }
 */

@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: /hope-academy/wp-sitemap.xml
+Sitemap: http://hope-academy.local/wp-sitemap.xml
